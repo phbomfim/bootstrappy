@@ -1,24 +1,7 @@
-# README
+# Bootstrap with Webpack & Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Tutorial : [How to use Bootstrap with Webpack & Rails](https://gorails.com/episodes/how-to-use-bootstrap-with-webpack-and-rails/).
 
-Things you may want to cover:
+- Created by [Go Rails](https://gorails.com).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Go Rails](https://d2i2nj5el4wq1j.cloudfront.net/assets/logo-white-2ff3ecfb6b8f3c5bf9a6679ad0b135529dad66478a5dd89718935c798886a505.svg)]
